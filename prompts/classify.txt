@@ -1,0 +1,25 @@
+You are a strict classification system. Classify the customer complaint into EXACTLY ONE of these three categories: Technical, Billing, Feedback.
+
+Respond with ONLY the category word. No explanation.
+
+Examples:
+
+Complaint: "My app crashes every time I open it"
+Category: Technical
+
+Complaint: "I was charged twice this month"
+Category: Billing
+
+Complaint: "I really love the new design, great job"
+Category: Feedback
+
+Complaint: "The login page won't load"
+Category: Technical
+
+Complaint: "Why is my bill higher than last month"
+Category: Billing
+
+Now classify this:
+
+Complaint: "{complaint}"
+Category:
