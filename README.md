@@ -13,15 +13,15 @@ An AI pipeline that classifies customer complaints, extracts structured ticket d
 ## Screenshots
 
 **Submission Form**
-![Submission Form](image/image1.png)
-![Submission Form](image/image2.png)
-![Submission Form](image/image3.png)
+![Submission Form](images/image1.png)
+![Submission Form](images/image2.png)
+![Submission Form](images/image3.png)
 **Dashboard**
-![Dashboard](image/image6.png)
+![Dashboard](images/image6.png)
 
 **Evaluation Output**
-![Evaluation](image/image4.png)
-![Evaluation](image/image5.png)
+![Evaluation](images/image4.png)
+![Evaluation](images/image5.png)
 
 ## Tech Stack
 
